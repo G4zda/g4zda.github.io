@@ -1,0 +1,6 @@
+Вашата веб страна потребно е да ја хостирате на Github или GitLab преку опциите Github Pages или Gitlab Pages. Доколку користите SSG проверете дали истиот е поддржан од Github/GitLab Pages.
+
+**link.txt:** текстуален фајл кој во првиот ред го наведува линкот кон Вашиот хостиран сајт.
+
+https://courses.finki.ukim.mk/mod/page/view.php?id=132756
+https://courses.finki.ukim.mk/mod/assign/view.php?id=132755
